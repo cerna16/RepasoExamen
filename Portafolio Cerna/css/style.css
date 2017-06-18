@@ -1,0 +1,127 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+#primer {
+	width: 100%;
+	background-color: #33343a;
+	transition: 1s;
+}
+
+nav.navbar ul a li {
+	margin-top:20px;
+	list-style: none;
+	display: inline-block;
+	color: #5e6064;
+	margin-right: 40px;
+	font-size: 12px;
+
+}
+
+nav.navbar ul a li:hover {
+	color:#fff;
+}
+
+.logo {
+	margin-left: 15%;
+}
+
+.barra {
+	background-color: #2d2f33; 
+	position: fixed; 
+	z-index:1; 
+	width: 105%;
+}
+
+ul.menu {
+	text-align: -webkit-center;
+}
+
+.titulo {
+	margin-top: 60px;
+	font-family: Impact;
+	font-size: 30px;
+	text-align: center;
+	color:#fff;
+}
+
+.sub {
+	text-align: center;
+	color:#a7a8af;
+	margin-top: 30px;
+	font-size: 13px;
+	margin-bottom: 40px;
+}
+
+.boton {
+	height: 35px;
+	width: 150px;
+	background-color: #e65657;
+	transition: 1s;
+}
+
+.boton b {
+	color:#fff;
+	margin:10px;
+}
+
+#segundo {
+	width: 100%;
+	background-color: #efefef;
+}
+
+h2 b{
+	font-size: 18px;
+}
+
+.p {
+	font-size: 12px;
+}
+
+.cuadro {
+	height: 220px;
+	width: 200px;
+	background-color: #ffffff;
+	margin-bottom: 20px;
+	margin-top: 60px;
+	border-radius: 5px;
+}
+
+.iam {
+	margin-bottom: -20px;
+}
+
+.el {
+	margin-left: 220px;
+}
+
+.ver {
+	margin-left: 110px;
+}
+
+.do {
+	margin-left: -110px;
+}
+ 
+.el:hover {
+	background-color: #e84d4f;
+	color:#fff;
+}
+.ver:hover {
+	background-color: #e84d4f;
+	color:#fff;
+}
+.gu:hover {
+	background-color: #e84d4f;
+	color:#fff;
+}
+.do:hover {
+	background-color: #e84d4f;
+	color:#fff;
+}
+
+.boton:hover {
+	background-color: #0aa5a7;
+	transition: 1s;
+	width: 200px;
+}
